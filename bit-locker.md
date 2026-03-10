@@ -408,5 +408,4 @@ This is why the backup key is mandatory.
 - How to back up your recovery key properly  
 - How to enforce recovery‑key escrow in Group Policy  
 
-Just tell me where you want to go next.
-
+Just tell me where you want to go 
